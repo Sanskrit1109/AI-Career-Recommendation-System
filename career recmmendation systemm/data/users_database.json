@@ -1,0 +1,14 @@
+{
+  "demo_user": {
+    "email": "demo@mynewcareer.com",
+    "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "registration_date": "2025-01-12T00:00:00",
+    "profile_completed": true
+  },
+  "Sanskriti Sharma": {
+    "email": "sanskrtisharma999@gmail.com",
+    "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+    "registration_date": "2025-09-13T19:42:37.073380",
+    "profile_completed": false
+  }
+}

@@ -1,0 +1,31 @@
+career_id,career_title,required_skills,industry,salary_range,growth_outlook,education_requirements,work_environment,job_description
+1,Software Engineer,Python|Java|JavaScript|Problem Solving|Teamwork,Technology,80000-150000,High,Bachelor's in Computer Science,Tech Company,Develop and maintain software applications and systems
+2,Data Scientist,Python|R|Machine Learning|Statistics|SQL,Technology,90000-160000,Very High,Bachelor's/Master's in Data Science,Tech Company,Analyze complex data to drive business decisions
+3,Product Manager,Leadership|Communication|Strategy|Analytics,Technology,100000-180000,High,Bachelor's in Business/Engineering,Corporate Office,Manage product development and strategy
+4,Marketing Manager,Marketing|Communication|Analytics|Creativity,Business,70000-130000,Medium,Bachelor's in Marketing/Business,Corporate Office,Develop and execute marketing strategies
+5,Financial Analyst,Excel|Financial Modeling|Analysis|Communication,Finance,65000-120000,Medium,Bachelor's in Finance/Economics,Financial Institution,Analyze financial data and market trends
+6,Mechanical Engineer,CAD|MATLAB|Problem Solving|Project Management,Engineering,70000-130000,Medium,Bachelor's in Mechanical Engineering,Engineering Firm,Design and develop mechanical systems
+7,Clinical Psychologist,Counseling|Research|Communication|Empathy,Healthcare,80000-140000,High,Doctoral Degree in Psychology,Healthcare Setting,Provide mental health treatment and assessment
+8,UX/UI Designer,Design Software|User Research|Prototyping|Creativity,Technology,75000-135000,High,Bachelor's in Design/HCI,Design Studio,Design user interfaces and experiences
+9,Business Analyst,Analysis|Communication|Process Improvement|SQL,Business,70000-125000,Medium,Bachelor's in Business/IT,Corporate Office,Analyze business processes and recommend improvements
+10,Research Scientist,Research|Data Analysis|Scientific Writing|Lab Techniques,Science,75000-140000,Medium,PhD in relevant field,Research Lab,Conduct scientific research and experiments
+11,Civil Engineer,AutoCAD|Project Management|Construction Knowledge|GIS,Engineering,65000-120000,Medium,Bachelor's in Civil Engineering,Construction Company,Design and oversee construction projects
+12,Registered Nurse,Patient Care|Medical Knowledge|Communication|Compassion,Healthcare,60000-100000,High,Bachelor's in Nursing,Hospital,Provide patient care and medical support
+13,Cybersecurity Analyst,Network Security|Risk Assessment|Programming|Problem Solving,Technology,85000-150000,Very High,Bachelor's in IT/Computer Science,IT Department,Protect organizations from cyber threats
+14,Investment Banker,Financial Analysis|Communication|Excel|High Pressure Tolerance,Finance,100000-250000,Medium,Bachelor's in Finance/Economics,Financial Institution,Provide financial advisory and investment services
+15,Environmental Consultant,Environmental Science|GIS|Research|Regulation Knowledge,Environment,60000-110000,Medium,Bachelor's in Environmental Science,Environmental Consultancy,Assess environmental impact and compliance
+16,Architect,CAD|Design|Project Management|Creativity,Construction,70000-130000,Low,Bachelor's/Master's in Architecture,Architecture Firm,Design buildings and structures
+17,Journalist,Writing|Research|Communication|Current Events Knowledge,Media,45000-85000,Low,Bachelor's in Journalism/Communications,Media Company,Research and report news stories
+18,Chemical Engineer,Process Design|Chemistry|MATLAB|Safety Knowledge,Engineering,75000-135000,Medium,Bachelor's in Chemical Engineering,Chemical Plant,Design chemical processes and systems
+19,Elementary Teacher,Teaching|Classroom Management|Patience|Communication,Education,45000-75000,Medium,Bachelor's in Education,Elementary School,Educate and mentor young students
+20,Research Physicist,Mathematical Modeling|Programming|Research|Analysis,Science,80000-140000,Medium,PhD in Physics,Research Institution,Conduct physics research and experiments
+21,Social Worker,Counseling|Communication|Empathy|Case Management,Social Services,50000-80000,High,Master's in Social Work,Non-profit Organization,Help individuals and families overcome challenges
+22,Diplomat,Foreign Languages|Negotiation|Cultural Awareness|Policy Knowledge,Government,70000-140000,Low,Master's in International Relations,Government Office,Represent country's interests internationally
+23,Philosophy Professor,Teaching|Research|Writing|Critical Thinking,Education,60000-120000,Low,PhD in Philosophy,Academic Setting,Teach and conduct philosophical research
+24,Art Director,Creativity|Design|Leadership|Project Management,Creative,70000-130000,Medium,Bachelor's in Art/Design,Art Gallery,Direct artistic vision for projects
+25,Music Producer,Audio Production|Music Theory|Creativity|Technology,Entertainment,50000-120000,Medium,Degree in Music/Audio Production,Music Studio,Produce and engineer music recordings
+26,Theatre Director,Directing|Leadership|Creativity|Project Management,Entertainment,45000-100000,Low,Bachelor's in Theatre Arts,Theatre Company,Direct theatrical productions
+27,Epidemiologist,Research|Statistics|Public Health|Data Analysis,Healthcare,70000-130000,High,Master's in Public Health,Health Department,Study disease patterns and public health
+28,Biotechnology Researcher,Lab Techniques|Bioinformatics|Research|Innovation,Biotechnology,75000-140000,High,PhD in Biotechnology/Biology,Biotech Company,Develop biotechnology solutions
+29,Sports Manager,Management|Marketing|Event Planning|Communication,Sports,50000-120000,Medium,Bachelor's in Sports Management,Sports Organization,Manage sports teams or facilities
+30,Translator,Language Skills|Cultural Knowledge|Writing|Attention to Detail,Language Services,45000-85000,Medium,Bachelor's + Language Certification,Translation Agency,Translate documents and communications

@@ -1,0 +1,31 @@
+student_id,academic_background,skills,interests,gpa,preferred_work_environment,career_experience,personality_traits
+1,Computer Science,Python Programming|Machine Learning|Data Analysis|Web Development,Technology|Problem Solving|Innovation,3.8,Tech Company,2 years internship,Analytical|Creative|Detail-oriented
+2,Business Administration,Leadership|Communication|Marketing|Excel,Business Strategy|Management|Finance,3.6,Corporate Office,1 year part-time,Outgoing|Organized|Ambitious
+3,Mechanical Engineering,CAD Design|Project Management|Problem Solving|MATLAB,Engineering|Manufacturing|Automotive,3.7,Engineering Firm,3 internships,Logical|Persistent|Technical
+4,Psychology,Research|Data Analysis|Counseling|Communication,Human Behavior|Mental Health|Research,3.9,Healthcare Setting,Volunteer work,Empathetic|Patient|Observant
+5,Marketing,Social Media|Content Creation|Analytics|Communication,Digital Marketing|Brand Strategy|Creativity,3.5,Creative Agency,2 internships,Creative|Social|Persuasive
+6,Data Science,Python|R|SQL|Machine Learning|Statistics,Data Analysis|AI|Research,3.9,Tech Startup,Multiple projects,Analytical|Curious|Methodical
+7,Graphic Design,Adobe Suite|UI/UX|Branding|Typography,Visual Arts|Design|Technology,3.4,Design Studio,Freelance work,Creative|Visual|Intuitive
+8,Finance,Financial Modeling|Excel|Risk Analysis|Accounting,Investment|Banking|Economics,3.7,Financial Institution,Banking internship,Analytical|Precise|Strategic
+9,Biology,Research|Lab Techniques|Data Analysis|Scientific Writing,Life Sciences|Medicine|Research,3.8,Research Lab,Lab assistant,Methodical|Curious|Dedicated
+10,English Literature,Writing|Research|Critical Analysis|Communication,Literature|Education|Publishing,3.6,Educational Setting,Tutoring experience,Creative|Articulate|Thoughtful
+11,Civil Engineering,AutoCAD|Project Planning|Construction Management|GIS,Infrastructure|Construction|Environment,3.5,Construction Company,Site internship,Practical|Organized|Leadership
+12,Nursing,Patient Care|Medical Knowledge|Communication|Emergency Response,Healthcare|Helping Others|Medicine,3.7,Hospital,Clinical rotations,Compassionate|Reliable|Calm
+13,Information Technology,Network Security|System Administration|Troubleshooting|Cloud Computing,Technology|Cybersecurity|Innovation,3.6,IT Department,Help desk experience,Logical|Problem-solver|Tech-savvy
+14,Economics,Statistical Analysis|Research|Mathematical Modeling|Policy Analysis,Economic Policy|Finance|Research,3.8,Government Agency,Research assistant,Analytical|Critical|Systematic
+15,Environmental Science,GIS|Environmental Monitoring|Research|Data Collection,Environment|Sustainability|Conservation,3.7,Environmental Consultancy,Field work experience,Environmental|Analytical|Dedicated
+16,Architecture,CAD|3D Modeling|Design|Project Management,Design|Construction|Urban Planning,3.5,Architecture Firm,Design internship,Creative|Spatial|Detail-oriented
+17,Journalism,Writing|Research|Interviewing|Social Media,Media|Current Events|Storytelling,3.4,Media Company,Campus newspaper,Curious|Communicative|Investigative
+18,Chemical Engineering,Process Design|MATLAB|Lab Work|Quality Control,Chemistry|Manufacturing|Energy,3.6,Chemical Plant,Process internship,Analytical|Safety-conscious|Technical
+19,Education,Lesson Planning|Classroom Management|Assessment|Technology Integration,Teaching|Child Development|Learning,3.8,Elementary School,Student teaching,Patient|Inspiring|Organized
+20,Physics,Mathematical Modeling|Research|Lab Techniques|Programming,Science|Research|Technology,3.9,Research Institution,Research project,Theoretical|Precise|Innovative
+21,Sociology,Research Methods|Statistical Analysis|Survey Design|Community Outreach,Social Issues|Human Behavior|Policy,3.5,Non-profit Organization,Community volunteer,Empathetic|Social|Advocacy-oriented
+22,International Relations,Research|Foreign Languages|Policy Analysis|Negotiation,Global Affairs|Diplomacy|Politics,3.7,Government Office,Model UN experience,Diplomatic|Cultural|Strategic
+23,Philosophy,Critical Thinking|Logic|Writing|Research,Ethics|Ideas|Debate,3.6,Academic Setting,Philosophy tutor,Reflective|Logical|Questioning
+24,Art,Digital Art|Traditional Media|Portfolio Development|Exhibition Planning,Visual Arts|Creativity|Expression,3.3,Art Gallery,Gallery assistant,Creative|Expressive|Visual
+25,Music,Performance|Composition|Music Theory|Audio Production,Music|Performance|Entertainment,3.4,Music Studio,Band member,Creative|Expressive|Collaborative
+26,Theatre,Acting|Directing|Script Writing|Production Management,Performing Arts|Entertainment|Storytelling,3.5,Theatre Company,Stage crew experience,Expressive|Collaborative|Dramatic
+27,Public Health,Epidemiology|Health Promotion|Research|Community Assessment,Public Health|Prevention|Policy,3.8,Health Department,Health outreach volunteer,Caring|Analytical|Community-focused
+28,Biotechnology,Lab Techniques|Genetic Engineering|Bioinformatics|Quality Assurance,Biotechnology|Medicine|Research,3.7,Biotech Company,Lab internship,Scientific|Precise|Innovative
+29,Sports Management,Event Planning|Marketing|Budget Management|Team Coordination,Sports|Management|Entertainment,3.4,Sports Organization,Athletic department intern,Energetic|Organized|Team-oriented
+30,Linguistics,Language Analysis|Research|Translation|Cultural Studies,Languages|Communication|Culture,3.6,Translation Agency,Language tutor,Analytical|Cultural|Detail-oriented

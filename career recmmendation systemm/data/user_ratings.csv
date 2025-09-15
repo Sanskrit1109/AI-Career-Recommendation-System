@@ -1,0 +1,91 @@
+student_id,career_id,rating,feedback
+1,1,5,Perfect match for my programming skills
+1,2,4,Interested in data science applications
+1,13,3,Security is interesting but not my main focus
+2,3,5,Love the strategic aspects of product management
+2,4,4,Marketing aligns with my business background
+2,9,4,Business analysis suits my analytical skills
+3,6,5,Mechanical engineering is exactly what I studied for
+3,11,4,Civil engineering has similar skill requirements
+3,18,3,Chemical engineering is related but different focus
+4,7,5,Clinical psychology matches my interests perfectly
+4,27,4,Public health epidemiology is very appealing
+4,21,4,Social work aligns with my desire to help people
+5,4,5,Marketing manager is my dream job
+5,8,4,UX design combines creativity with technology
+5,24,3,Art direction is creative but less strategic
+6,2,5,Data science is perfect for my skill set
+6,1,4,Software engineering is a good backup option
+6,10,4,Research scientist appeals to my analytical nature
+7,8,5,UX/UI design is exactly what I want to do
+7,24,4,Art director role would be exciting
+7,16,3,Architecture involves design but different medium
+8,5,5,Financial analyst role fits my finance background
+8,14,4,Investment banking is lucrative and challenging
+8,9,3,Business analyst is related but less finance-focused
+9,10,5,Research scientist is my ideal career path
+9,28,4,Biotechnology research is very interesting
+9,20,3,Physics research is appealing but different field
+10,19,5,Teaching is my passion
+10,17,4,Journalism would let me use my writing skills
+10,23,3,Philosophy professor appeals to my academic side
+11,11,5,Civil engineering matches my studies perfectly
+11,16,4,Architecture involves similar design skills
+11,6,3,Mechanical engineering is related engineering field
+12,12,5,Nursing is exactly what I want to do
+12,27,4,Epidemiology combines health and research
+12,7,3,Clinical psychology is healthcare but different focus
+13,13,5,Cybersecurity is my target career
+13,1,4,Software engineering would be a good foundation
+13,2,3,Data science is interesting but not my main focus
+14,5,5,Financial analyst role is perfect for economics background
+14,14,4,Investment banking would be challenging and rewarding
+14,27,3,Epidemiology uses statistics but different application
+15,15,5,Environmental consulting is exactly what I want
+15,28,4,Biotechnology research could apply to environmental issues
+15,10,3,Research scientist is appealing but broader scope
+16,16,5,Architecture is my dream career
+16,8,4,UX design involves spatial thinking like architecture
+16,11,3,Civil engineering is construction-related but different focus
+17,17,5,Journalism is perfect for my interests
+17,4,4,Marketing involves communication and creativity
+17,21,3,Social work involves communication but different focus
+18,18,5,Chemical engineering matches my studies exactly
+18,6,4,Mechanical engineering has similar problem-solving aspects
+18,28,3,Biotechnology involves chemistry but different application
+19,19,5,Elementary teaching is my calling
+19,7,4,Psychology could help with child development
+19,21,3,Social work involves helping people but different setting
+20,20,5,Research physicist is exactly what I want to be
+20,10,4,General research scientist is appealing
+20,2,3,Data science uses mathematical skills but different focus
+21,21,5,Social work is perfect for helping communities
+21,27,4,Epidemiology addresses social health issues
+21,19,3,Teaching involves helping people but different approach
+22,22,5,Diplomat role matches my international relations background
+22,17,4,Journalism could cover international affairs
+22,21,3,Social work could have international applications
+23,23,5,Philosophy professor is my academic goal
+23,19,4,Teaching would let me share philosophical thinking
+23,17,3,Journalism could explore philosophical themes
+24,24,5,Art director is my creative dream job
+24,8,4,UX design combines art with technology
+24,25,3,Music production is creative but different medium
+25,25,5,Music producer role is perfect for my skills
+25,26,4,Theatre direction involves creative collaboration
+25,24,3,Art direction is creative but different field
+26,26,5,Theatre director is exactly what I want to do
+26,25,4,Music production involves similar creative skills
+26,17,3,Journalism could cover arts and entertainment
+27,27,5,Epidemiologist role is perfect for public health focus
+27,21,4,Social work addresses community health issues
+27,12,3,Nursing is healthcare but more direct patient care
+28,28,5,Biotechnology researcher matches my studies perfectly
+28,10,4,Research scientist is appealing but broader scope
+28,7,3,Clinical psychology is interesting but different field
+29,29,5,Sports manager is exactly what I studied for
+29,4,4,Marketing skills apply well to sports industry
+29,26,3,Theatre management has similar event coordination
+30,30,5,Translator role is perfect for my language skills
+30,17,4,Journalism could benefit from language abilities
+30,22,3,Diplomat role uses language skills but different focus
